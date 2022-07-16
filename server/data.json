@@ -1,0 +1,54 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "pages": 300,
+      "year": 1937,
+      "description": "The Hobbit is a children's fantasy novel written by English author and scholar J.R.R. Tolkien. It is part of the Tolkien Children's Library Project.",
+      "cover": "https://images-na.ssl-images-amazon.com/images/I/71KqBbH93lL.jpg",
+      "purchase": "https://www.amazon.se/hobbit-There-back-again/dp/0007458428/ref=sr_1_10?crid=2YXFWRAV95MSU&keywords=the+hobbit&qid=1657997554&sprefix=the+hobbit%2Caps%2C86&sr=8-10"
+    },
+    {
+      "id": 2,
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "pages": 350,
+      "year": 1954,
+      "description": "The Lord of the Rings is a fantasy novel written by English author and scholar J.R.R. Tolkien. It is part of the Tolkien Children's Library Project.",
+      "cover": "https://m.media-amazon.com/images/I/41t9lnhXuFL._AC_SY1000_.jpg",
+      "purchase": "https://www.amazon.se/Lord-Rings-J-R-R-Tolkien/dp/0261103253/ref=sr_1_2?crid=3OXIUPXLFBIOJ&keywords=the+lord+of+the+rings&qid=1657997610&sprefix=the+lor%2Caps%2C90&sr=8-2"
+    },
+    {
+      "id": 3,
+      "title": "The Fellowship of the Ring",
+      "author": "J.R.R. Tolkien",
+      "pages": 400,
+      "year": 1954,
+      "description": "The Fellowship of the Ring is a fantasy novel written by English author and scholar J.R.R. Tolkien. It is part of the Tolkien Children's Library Project.",
+      "cover": "https://i.harperapps.com/hcanz/covers/9780008108298/y648.jpg",
+      "purchase": "https://www.amazon.se/fellowship-ring-Book-1/dp/0261103571/ref=sr_1_5?crid=4Y9FMLMZRG16&keywords=the+fellowship+of+the+ring&qid=1657997639&sprefix=the+fellow%2Caps%2C99&sr=8-5"
+    },
+    {
+      "id": 4,
+      "title": "The Two Towers",
+      "author": "J.R.R. Tolkien",
+      "pages": 450,
+      "year": 1954,
+      "description": "The Two Towers is a fantasy novel written by English author and scholar J.R.R. Tolkien. It is part of the Tolkien Children's Library Project.",
+      "cover": "https://i.pinimg.com/474x/79/b6/d7/79b6d707cfddc132b8a787f0768f0d75.jpg",
+      "purchase": "https://www.amazon.se/two-towers-Book-2/dp/0007203551/ref=sr_1_5?crid=3KLT9TLXLEY2U&keywords=the+two+towers&qid=1657997660&sprefix=the+two+towers%2Caps%2C80&sr=8-5"
+    },
+    {
+      "id": 5,
+      "title": "The Silmarillion",
+      "author": "J.R.R. Tolkien",
+      "pages": 365,
+      "year": 1977,
+      "description": "The Silmarillion is a fantasy novel written by English author and scholar J.R.R. Tolkien. It is part of the Tolkien Children's Library Project.",
+      "cover": "https://images-na.ssl-images-amazon.com/images/I/41p9M9igLVL._SY344_BO1,204,203,200_QL70_ML2_.jpg",
+      "purchase": "https://www.amazon.se/Silmarillion-J-R-Tolkien/dp/000752322X/ref=sr_1_5?keywords=the+silmarillion&qid=1657997701&sprefix=the+silm%2Caps%2C89&sr=8-5"
+    }
+  ]
+}
